@@ -24,9 +24,6 @@ url: https://chenxi-bio.github.io
 # name             : "Your Sidebar Name"
 # email            : "none@example.org" 
 
-# Academic websites
-# orcid            : "https://orcid.org/0000-0002-8705-8031"
-
 
 # Tabs in header. 
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -44,8 +41,9 @@ paginate: 6
 excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
-# footer-links:
-  # github: chenxi-bio
+footer-links:
+  github: chenxi-bio
+
 
 # Text under the icons in footer
 footer-text: Copyright (c) 2024 Chenxi Zhang
