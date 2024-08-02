@@ -4,33 +4,33 @@
 
 # Name of your site (displayed in the header)
 name: "Chenxi Zhang"
+
 # Short bio or description (displayed in the header)
 # description: "Chenxi Zhang- Personal Pages"
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 url: https://chenxi-bio.github.io 
 
 #
 # Flags below are optional
 #
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
 
-author:
-  # Biographic information
-  # URL of your avatar or profile pic (you could use your GitHub profile pic)
-  avatar           : "profile.png"
-  # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-  # favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
-  # name             : "Your Sidebar Name"
-  # pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
-  location         : "Shanghai, China"
-  # employer         : "Red Brick University"
-  # uri              : # URL
-  # email            : "none@example.org" 
+# Biographic information
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# avatar           : "profile.png"
+# 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
+# favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+# name             : "Your Sidebar Name"
+# pronouns         : # example: "she/her"  
+# bio              : "Short biography for the left-hand sidebar"
+location         : "Shanghai, China"
+# employer         : "Red Brick University"
+# uri              : # URL
+# email            : "none@example.org" 
 
-  # Academic websites
-  orcid            : "http://orcid.org/yourorcidurl"
+# Academic websites
+orcid            : "https://orcid.org/0000-0002-8705-8031"
 
 
 # Tabs in header. 
@@ -85,9 +85,6 @@ footer-text: Copyright (c) 2024 Chenxi Zhang
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://chenxi-bio.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
