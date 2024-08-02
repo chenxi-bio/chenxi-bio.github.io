@@ -1,8 +1,8 @@
-## About Me
+------------------------
 
 ## Education
-- Fudan University
-PhD Student in Bioinformatics, Department of Automation • 2023-present
+#### Fudan University <br>
+ &emsp; *PhD Student in Bioinformatics    • 2023-present*
 
 
 ## Selected Publication
