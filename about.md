@@ -1,6 +1,9 @@
-## Education
+## About Me
 
-I am a PhD Student at Fudan Univrsity.
+## Education
+- Fudan University
+PhD Student in Bioinformatics, Department of Automation • 2023-present
+
 
 ## Selected Publication
 - Guo, J<sup>†</sup>., Huang, X<sup>†</sup>., **Zhang, C**<sup>†</sup>. et al. The blood virome of 10,585 individuals from the ChinaMAP. Cell Discov 8, 113 (2022). doi: 10.1038/s41421-022-00476-1
